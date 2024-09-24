@@ -1,4 +1,4 @@
-<h1 id="title">ReadMe file for "A Unique Task Manager"</h1><img src = "https://badgen.net/badge/license/MIT">
+<h1 id="title">ReadMe file for "A Unique PWA Text Editor"</h1><img src = "https://badgen.net/badge/license/MIT">
 <h3>By User davehyler</h3>
 <!-- Optional Screenshot will show if user places one within the same directory as this readme. -->
 <p><a href = "https://davehyler.github.io/UniqueTasks"><img src = "screenshot.png"></a></p> 
@@ -24,7 +24,7 @@
 <h3 id="license">License: MIT</h3>
 <p>Badge: <a href = "https://opensource.org/license/mit"><img src = "https://badgen.net/badge/license/MIT"></a></p>
 <h3 id="description">Description of project:</h3>
-<p>This is a simple Task Tracker and Management System</p>
+<p>This is a simple Progressive Web Application based Text-Editor</p>
 <h3 id="instructions">Instructions:</h3>
 Step 1: Clone the repository on this page
 
