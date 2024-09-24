@@ -49,6 +49,7 @@ npm start
 
 You should now be able to access the fully working Text Editor at your Local Address of 3000: http://localhost:3000/
 <h3 id="usage">From the source readme:</h3>
+<ul class="list-group">
 -GIVEN a text editor web application
 -WHEN I open my application in my editor
 -THEN I should see a client server folder structure
@@ -74,7 +75,7 @@ You should now be able to access the fully working Text Editor at your Local Add
 -THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 -WHEN I deploy to Render
 -THEN I should have proper build scripts for a webpack application
-
+</ul>
 <p>
 <h3 id="guidelines">Guidelines for Contribution:</h3>
 <p>To contribute, please upload your code or alterations to a commit and it will be reviewed.</p>
