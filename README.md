@@ -28,25 +28,6 @@
 <h3 id="instructions">Instructions:</h3>
 <p>Follow link below to deployed Website (https://davehyler.github.io/UniqueTasks/), press the only button on the body of the page, and follow all prompts.
 
-Installation
-Clone the repository:
-git clone https://github.com/haartmuhn/sync-note.git
-cd sync-note
-Install the dependencies:
-Install the dependencies for both the client and server:
-
-cd client
-npm install
-
-cd ../server
-npm install
-Build the client
-cd client
-npm run build
-Start the server:
-cd ../server
-npm start
-
 </p>
 <h3 id="usage">Each of the following has been completed from the source readme:</h3>
 -GIVEN a text editor web application
