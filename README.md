@@ -31,11 +31,11 @@ Step 1: Clone the repository on this page
 Step 2: Install the dependencies:
 Install the dependencies for BOTH the folders "client" and "server"
 
-Step 2A
+Step 2A:
 cd client
 npm install
 
-Step 2B
+Step 2B:
 cd ../server
 npm install
 
